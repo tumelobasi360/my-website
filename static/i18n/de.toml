@@ -1,0 +1,196 @@
+[home_hero_title]
+other = "Eine gemeinnützige Zertifizierungsstelle, die TLS-Zertifikate für <span>450 Millionen</span> Websites bereitstellt."
+
+[home_hero_getting_started]
+other = "Loslegen"
+
+[home_hero_donate]
+other = "Spenden"
+
+[home_hero_sponsor]
+other = "Sponsern"
+
+[home_hero_annual_report]
+other = "Lesen Sie alles über unsere diesjährige gemeinnützige Arbeit in unserem <a href='https://abetterinternet.org/annual-reports/'>Jahresbericht 2023</a>."
+
+[home_major_sponsors]
+other = "Hauptsponsoren und Spender"
+
+[home_from_our_blog]
+other = "Aus unserem Blog (auf Englisch)"
+
+[read_more]
+other = "Mehr lesen"
+
+[subscribe_rss]
+other = '<a href="{{ .Permalink }}">Via RSS abonnieren</a>'
+
+[footer_support_us]
+other = "Unterstützen Sie ein sichereres Internet, welches die Privatsphäre respektiert."
+
+[footer_donate]
+other = "Spenden"
+
+[footer_mailing]
+other = "Senden Sie alle Briefe oder Anfragen an:"
+
+[footer_policies]
+other = """
+Lesen Sie unsere <a href="/privacy/">Datenschutzerklärung</a>.<br> Lesen Sie unsere <a href="/trademarks/">Markenbestimmungen</a>.
+"""
+
+[header_skip_nav]
+other = "Navigation überspringen"
+
+[last_updated]
+other = "Letzte Änderung: "
+
+[see_all_doc]
+other = "Gesamte Dokumentation anzeigen"
+
+[blog_feed]
+other = "Feed des Let's Encrypt-Blogs"
+
+[diamond]
+other = "Diamant"
+
+[platinum]
+other = "Platin"
+
+[gold]
+other = "Gold"
+
+[gold_basic]
+other = "Gold (Basic)"
+
+[silver]
+other = "Silber"
+
+[languages]
+other = "Sprachen"
+
+[view_in_english]
+other = "Auf Englisch anzeigen"
+
+[old_version]
+other = "Hinweis: Die englische Version wurde seit der Übersetzung aktualisiert"
+
+[not_yet_translated]
+other = 'Diese Webseite wurde noch nicht übersetzt. Sie können <a href="https://github.com/letsencrypt/website">hier beim Übersetzen helfen</a>.'
+
+[english_is_canonical]
+other = "Die englische Fassung ist maßgeblich"
+
+[graph_issued]
+other = "Ausgestellt"
+
+[graph_certificates_active]
+other = "Aktive Zertifikate"
+
+[graph_fully_qualified_domains_active]
+other = "Aktive FQDN"
+
+[graph_registered_domains_active]
+other = "Aktive registrierte Domains"
+
+[graph_active_count]
+other = "Anzahl Aktive"
+
+[graph_issued_per_day]
+other = "Ausgestellte Zertifikate pro Tag"
+
+[graph_all_users]
+other = "Alle Benutzer"
+
+[graph_usa_users]
+other = "Benutzer in den USA"
+
+[graph_japan_users]
+other = "Benutzer in Japan"
+
+[graph_percent_https]
+other = "Prozent der Seitenaufrufe über HTTPS (Durchschnitt der letzten 14 Tage)"
+
+[certificate_policy]
+other = "Zertifikatsrichtlinien"
+
+[certificate_transparency_name]
+other = "Name"
+
+[certificate_transparency_role_production]
+other = "Produktion"
+
+[certificate_transparency_role_testing]
+other = "Testen"
+
+[certificate_transparency_uri]
+other = "URI"
+
+[certificate_transparency_public_key]
+other = "Öffentlicher Schlüssel"
+
+[certificate_transparency_log_id]
+other = "Protokoll-ID"
+
+[certificate_transparency_state]
+other = "Status"
+
+[certificate_transparency_window_start]
+other = "Begin des Zeitfensters"
+
+[certificate_transparency_window_end]
+other = "Ende des Zeitfensters"
+
+[certification_practices_statement]
+other = "Certification Practices Statement"
+
+[overview]
+other = "Überblick"
+
+[subscriber_information]
+other = "Teilnehmerinformationen"
+
+[advanced_subscriber_information]
+other = "Fortgeschrittene Teilnehmerinformationen"
+
+[client_developer_information]
+other = "Informationen für Client-Entwickler"
+
+[acme_divergences]
+other = "Unterschiede zum aktuellen ACME-Entwurf"
+
+[acme_divergences_rfc]
+other = "Unterschiede zum ACME-RFC"
+
+[onboarding_customers]
+other = "Migration Ihrer Kunden zu Let's Encrypt und ACME"
+
+[paypal_donate_alt]
+other = "Mit PayPal spenden"
+
+[paypal_donate_title]
+other = "Spenden via PayPal"
+
+[not_found]
+other = "Diese Seite existiert nicht, bitte überprüfen Sie die Adresse."
+
+[amount_per_year]
+other = "{{ .nb }} USD/Jahr"
+
+[3y_commitment]
+other = "mit 3-Jahres-Vertrag"
+
+[1_99_employees]
+other = "1-99 Mitarbeitende"
+
+[100_999_employees]
+other = "100-999 Mitarbeitende"
+
+[1000_employees]
+other = "1000+ Mitarbeitende"
+
+[subscribe_to_newsletter_headline]
+other = "Abonnieren Sie unseren Newsletter"
+
+[site_banner_text]
+other = "ISRG feiert sein 10-jähriges Bestehen und trägt zum Aufbau eines besseren Internets bei →"

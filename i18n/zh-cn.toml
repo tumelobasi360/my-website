@@ -1,0 +1,196 @@
+[home_hero_title]
+other = "为 <span>3.63 亿</span>网站提供 TLS 证书的非营利证书颁发机构"
+
+[home_hero_getting_started]
+other = "快速入门"
+
+[home_hero_donate]
+other = "捐款"
+
+[home_hero_sponsor]
+other = "成为赞助商"
+
+[home_hero_annual_report]
+other = "我们这一年来的非营利工作详情可在 <a href='https://abetterinternet.org/annual-reports/'>2023 年度报告</a>中查阅。"
+
+[home_major_sponsors]
+other = "核心赞助商"
+
+[home_from_our_blog]
+other = "博客文章"
+
+[read_more]
+other = "阅读全文"
+
+[subscribe_rss]
+other = '<a href="{{ .Permalink }}">RSS 订阅</a>'
+
+[footer_support_us]
+other = "支持更安全、更尊重隐私的互联网。"
+
+[footer_donate]
+other = "捐款"
+
+[footer_mailing]
+other = "邮件咨询可发送至："
+
+[footer_policies]
+other = """
+阅读我们的<a href="/zh-cn/privacy/">隐私政策</a>。<br>
+阅读我们的<a href="https://www.abetterinternet.org/trademarks">商标政策</a>。"""
+
+[header_skip_nav]
+other = "跳过导航链接"
+
+[last_updated]
+other = "最近更新："
+
+[see_all_doc]
+other = "所有文档"
+
+[blog_feed]
+other = "Let's Encrypt 博客订阅源"
+
+[diamond]
+other = "钻石级"
+
+[platinum]
+other = "白金级"
+
+[gold]
+other = "黄金级"
+
+[gold_basic]
+other = "普通黄金级"
+
+[silver]
+other = "白银级"
+
+[languages]
+other = "切换语言"
+
+[view_in_english]
+other = "阅读英文页面"
+
+[old_version]
+other = "注意：本页面有较新的英文版本。"
+
+[not_yet_translated]
+other = '此页面尚未翻译。 要贡献翻译，请<a href="https://github.com/letsencrypt/website">点击此处</a>。'
+
+[english_is_canonical]
+other = "此页内容请以英文页面为准"
+
+[graph_issued]
+other = "颁发数量"
+
+[graph_certificates_active]
+other = "活跃证书数量"
+
+[graph_fully_qualified_domains_active]
+other = "活跃的完全限定域名数量"
+
+[graph_registered_domains_active]
+other = "活跃的注册域名数量"
+
+[graph_active_count]
+other = "活跃数量"
+
+[graph_issued_per_day]
+other = "每日颁发数量"
+
+[graph_all_users]
+other = "所有用户"
+
+[graph_usa_users]
+other = "美国用户"
+
+[graph_japan_users]
+other = "日本用户"
+
+[graph_percent_https]
+other = "通过 HTTPS 加载的页面百分比（14日移动平均）"
+
+[certificate_policy]
+other = "证书策略"
+
+[certificate_transparency_name]
+other = "名称"
+
+[certificate_transparency_role_production]
+other = "生产环境日志"
+
+[certificate_transparency_role_testing]
+other = "测试环境日志"
+
+[certificate_transparency_uri]
+other = "链接"
+
+[certificate_transparency_public_key]
+other = "公钥"
+
+[certificate_transparency_log_id]
+other = "日志 ID"
+
+[certificate_transparency_state]
+other = "状态"
+
+[certificate_transparency_window_start]
+other = "开始窗口"
+
+[certificate_transparency_window_end]
+other = "结束窗口"
+
+[certification_practices_statement]
+other = "证书实践声明"
+
+[overview]
+other = "概述"
+
+[subscriber_information]
+other = "用户信息"
+
+[advanced_subscriber_information]
+other = "高级用户信息"
+
+[client_developer_information]
+other = "客户端开发者信息"
+
+[acme_divergences]
+other = "与当前 ACME 草案的不同"
+
+[acme_divergences_rfc]
+other = "与ACME RFC的区别"
+
+[onboarding_customers]
+other = "利用Let's Encrypt和ACME自动化吸引客户"
+
+[paypal_donate_alt]
+other = "PayPal 捐款"
+
+[paypal_donate_title]
+other = "使用PayPal捐款"
+
+[not_found]
+other = "该页面不存在，请检查地址。"
+
+[amount_per_year]
+other = "每年 ${{ .nb }} （美元）"
+
+[3y_commitment]
+other = "（三年承诺捐助）"
+
+[1_99_employees]
+other = "（员工人数小于 100 人）"
+
+[100_999_employees]
+other = "（员工人数在 100 到 999 之间）"
+
+[1000_employees]
+other = "（员工人数大于 1000 人）"
+
+[subscribe_to_newsletter_headline]
+other = "订阅我们的新闻资讯"
+
+[site_banner_text]
+other = "推动构建更加光明的互联网，ISRG 成立十周年庆 →"

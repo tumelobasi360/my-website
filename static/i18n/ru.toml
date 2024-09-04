@@ -1,0 +1,200 @@
+[home_hero_title]
+other = "Некоммерческий Центр сертификации, предоставляющий сертификаты TLS для <span>450 миллионов</span> веб-сайтов."
+
+[home_hero_getting_started]
+other = "Приступить"
+
+[home_hero_donate]
+other = "Поддержать нас"
+
+[home_hero_sponsor]
+other = "Поддержать"
+
+[home_hero_annual_report]
+other = "Читайте о нашей некоммерческой деятельности в этом году в нашем <a href='https://abetterinternet.org/annual-reports/'>Годовом отчете за 2023 год</a>."
+
+[home_major_sponsors]
+other = "Основные спонсоры и инвесторы"
+
+[home_from_our_blog]
+other = "В нашем блоге"
+
+[read_more]
+other = "Ещё..."
+
+[subscribe_rss]
+other = 'Подписаться <a href="{{ .Permalink }}">на RSS</a>'
+
+[footer_support_us]
+other = "Помогите сделать Интернет безопасным и уважающим вашу конфиденциальность."
+
+[footer_donate]
+other = "Поддержите нас"
+
+[footer_mailing]
+other = "Все письма и запросы отправляйте по адресу:"
+
+[footer_policies]
+other = """
+Ознакомьтесь с нашей <a href="/ru/privacy/">политикой конфиденциальности</a>.<br>
+Ознакомьтесь с нашей <a href="/ru/trademarks/">политикой в отношении товарных знаков</a>.
+"""
+
+[header_skip_nav]
+other = "Пропустить навигационные ссылки"
+
+[last_updated]
+other = "Последнее обновление: "
+
+[see_all_doc]
+other = "Вся документация"
+
+[blog_feed]
+other = "Блог Let's Encrypt"
+
+[diamond]
+other = "Алмаз"
+
+[platinum]
+other = "Платиновые"
+
+[gold]
+other = "Золотые"
+
+[gold_basic]
+other = "Простые Золотые"
+
+[silver]
+other = "Серебряные"
+
+[languages]
+other = "Язык"
+
+[view_in_english]
+other = "Просмотреть на английском"
+
+[old_version]
+other = "Внимание! Английская версия сайта была обновлена, перевод неактуален"
+
+[not_yet_translated]
+other = 'Эта страница ещё не переведена. Вы можете внести свой вклад <a href="https://github.com/letsencrypt/website">здесь</a>.'
+
+[english_is_canonical]
+other = "Версия на английском является официальной"
+
+[graph_issued]
+other = "Выпущено"
+
+[graph_certificates_active]
+other = "Активные сертификаты"
+
+[graph_fully_qualified_domains_active]
+other = "Полноопределённые активные домены"
+
+[graph_registered_domains_active]
+other = "Зарегистрированные активные домены"
+
+[graph_active_count]
+other = "Количество активных"
+
+[graph_issued_per_day]
+other = "Выпущено за сутки"
+
+[graph_all_users]
+other = "Все пользователи"
+
+[graph_usa_users]
+other = "Пользователи из США"
+
+[graph_japan_users]
+other = "Пользователи из Японии"
+
+[graph_percent_https]
+other = "Доля страниц, в %, загруженных по HTTPS (скользящая средняя за 14 дней)"
+
+[certificate_policy]
+other = "Политика сертификатов"
+
+[certificate_transparency_name]
+other = "Название"
+
+[certificate_transparency_role_production]
+other = "Официальное использование"
+
+[certificate_transparency_role_testing]
+other = "Тестирование"
+
+[certificate_transparency_uri]
+other = "URI"
+
+[certificate_transparency_public_key]
+other = "Открытый ключ"
+
+[certificate_transparency_log_id]
+other = "ID записи"
+
+[certificate_transparency_state]
+other = "Статус"
+
+[certificate_transparency_window_start]
+other = "Дата начала"
+
+[certificate_transparency_window_end]
+other = "Дата окончания"
+
+[certification_practices_statement]
+other = "Заявление о практике сертификации"
+
+[overview]
+other = "Обзор"
+
+[subscriber_information]
+other = "Информация для пользователей"
+
+[advanced_subscriber_information]
+other = "Расширенная информация для пользователей"
+
+[client_developer_information]
+other = "Информация о разработчике"
+
+[acme_divergences]
+other = "Отличия от текущего проекта ACME"
+
+[acme_divergences_rfc]
+other = "Отступления от ACME RFC"
+
+[onboarding_customers]
+other = "Ознакомление ваших клиентов с Let's Encrypt и протоколом ACME"
+
+[paypal_donate_alt]
+other = "Кнопка «Поддержать через PayPal»"
+
+[paypal_donate_title]
+other = "Поддержите нас с помощью PayPal"
+
+[not_found]
+other = "Этой страницы не существует. Пожалуйста, уточните адрес."
+
+[amount_per_year]
+other = "{{ .nb }} долларов США в год"
+
+[3y_commitment]
+other = "на протяжении 3 лет"
+
+[1_99_employees]
+other = "число сотрудников от 1 до 99"
+
+[100_999_employees]
+other = "число сотрудников от 100 до 999"
+
+[1000_employees]
+other = "число сотрудников более 1000"
+
+[subscribe_to_newsletter_headline]
+other = "Подпишитесь на обновления по электронной почте о Let's Encrypt и других проектах ISRG"
+
+[site_banner_text]
+other = "ISRG отмечает 10 лет оказания помощи в создании более светлого Интернета →"
+
+[footer_copyright]
+other = "Internet Security Research Group"
